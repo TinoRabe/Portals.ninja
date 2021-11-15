@@ -1,7 +1,7 @@
 ---
 title: "Pass Liquid Variable to JavaScript Function as Parameter"
 date: 2021-11-10T19:57:31+01:00
-draft: true
+draft: false
 ---
 ```html
 {% for results in query %}
