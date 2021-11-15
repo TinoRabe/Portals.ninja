@@ -1,0 +1,15 @@
+baseURL = 'https://portals.ninja/'
+languageCode = 'en-us'
+title = 'Portals.ninja'
+
+# Change the default theme to be use when building the site with Hugo
+theme = "hugo-theme-relearn"
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+# Change default color scheme with a variant one.
+themeVariant = "PortalsNinja"
+
